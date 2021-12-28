@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "axios": "^0.24.0",
+    "expressjs": "^1.0.1",
+    "json-server": "^0.17.0",
+    "react-icons": "^4.3.1"
+  }
+}

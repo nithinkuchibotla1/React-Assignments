@@ -1,0 +1,26 @@
+{
+    "user":
+                [
+            {"name":"Siva",
+            "location":"Bengaluru",
+            "likes":64,
+            "description": "Kick start your career",
+            "PostImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Destiny_XBO.jpg/220px-Destiny_XBO.jpg",
+            "date": "10 Jan 2021"
+            },
+            {"name":"Neeraj",
+            "location":"Pune",
+            "likes":30,
+            "description": "Sample Description",
+            "PostImage": "https://imgs.callofduty.com/content/dam/atvi/callofduty/cod-touchui/kronos/common/social-share/social-share-image.jpg",
+            "date": "06 Jan 2021"
+            },
+            {"name":"Rahul",
+            "location":"Hyderabad",
+            "likes":30,
+            "description": "Sample Description for Post",
+            "PostImage": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/4437469/1453c32bbe531eb2418a688ca6512e3781e1f115_400x225.png",
+            "date": "29 Dec 2020"
+            }
+            ]
+}
